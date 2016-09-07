@@ -1,7 +1,7 @@
 func downloadImage(atURL url: String) -> (Bool, String) {
     // TODO: Download image
     // if no error, return true
-    // otherwise, get error string and return false
+    // otherwise, get error string and return false//
     let error = "Image no longer exists"
     return (false, error)
 }
